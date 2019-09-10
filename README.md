@@ -1,6 +1,6 @@
 # Using Core Bluetooth Classic
 
-Use Core Bluetooth APIs to discover and communicate with a Bluetooth Classic device.
+Discover and communicate with a Bluetooth Classic device by using the Core Bluetooth APIs.
 
 ## Overview
 
